@@ -1,0 +1,27 @@
+_repo: The-Fool_67497
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mason, David
+    birthdate: 1924
+    deathdate: 1974
+    gutenberg_agent_id: '26303'
+    url: http://www.gutenberg.org/2009/agents/26303
+description: ''
+gutenberg_issued: '2022-02-25'
+identifiers:
+  gutenberg: '67497'
+language: en
+pgterms:marc905: 20220212101758mason
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Royal Publications, Inc,1956.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Fool
+url: http://www.gutenberg.org/ebooks/67497
